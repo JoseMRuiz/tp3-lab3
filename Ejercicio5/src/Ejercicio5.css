@@ -1,0 +1,8 @@
+.tarea-completada {
+    text-decoration: line-through;
+    color: green;
+}
+
+.tarea-no-completada {
+    color: red;
+}
