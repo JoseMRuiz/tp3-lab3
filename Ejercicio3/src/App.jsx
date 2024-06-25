@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import Ejercicio2 from './Ejercicio2'
+import Ejercicio3 from './Ejercicio3'
 import './App.css'
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <Ejercicio2/>
+      <Ejercicio3/>
     </>
   )
 }

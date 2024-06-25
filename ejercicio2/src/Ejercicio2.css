@@ -1,0 +1,48 @@
+    .calculoImc {
+        text-align: center;
+        padding: 20px;
+    }
+    
+    .calculoImc label {
+        display: block;
+        margin: 10px 0;
+    }
+    
+    .calculoImc input {
+        margin-left: 10px;
+    }
+    
+    .calculoImc button {
+        margin-top: 20px;
+        padding: 10px 20px;
+        font-size: 16px;
+    }
+    
+    .Imc-resultado {
+        margin-top: 20px;
+        padding: 10px;
+        font-size: 18px;
+        border-radius: 5px;
+        display: inline-block;
+    }
+    
+    .yellow {
+        background-color: yellow;
+        color: black;
+    }
+    
+    .green {
+        background-color: green;
+        color: white;
+    }
+    
+    .orange {
+        background-color: orange;
+        color: white;
+    }
+    
+    .red {
+        background-color: red;
+        color: white;
+    }
+    
