@@ -47,7 +47,7 @@ const Ejercicio5 = () => {
     <ul>
         {Personas.map((persona) =>(
             <li key={persona.id}>
-                {persona.id} - {persona.name} - {persona.email}
+                {persona.id} - {persona.name} - {persona.email} - {persona.web} - {persona.username}
                 <button onClick={() => VerTareas(persona.id)}>Ver tareas</button>
             </li>
         ))}
