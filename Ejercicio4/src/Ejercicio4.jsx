@@ -87,7 +87,7 @@ function Ejercicio4() {
             </div>
             <button type="submit">Enviar</button>
         </form>
-        <p style={{ color: isFormValid ? 'green' : 'red' }}>{validationMensaje}</p>
+        <p style={{ color: isFormValid ? 'green' : 'red' }}>{validationMensaje ? validationMensaje : "exito"}</p>
         </div>
     );
 }
